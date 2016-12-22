@@ -1,0 +1,15 @@
+{
+  "name": "multirange",
+  "main": "multirange.js",
+  "homepage": "https://github.com/lapa182/multirange",
+  "authors": [
+    "LeaVerou"
+  ],
+  "description": "A tiny polyfill for HTML5 multi-handle sliders.",
+  "keywords": [
+    "multi-range",
+    "multirange"
+  ],
+  "license": "MIT",
+  "private": true
+}
